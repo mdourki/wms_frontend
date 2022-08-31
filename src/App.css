@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*.menu{
+    background-image: url('./Images/warehouse.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}*/
+
+.content{
+    margin-left: 400px;
+    margin-top: 20px;
+    width: min-content;
+}
+
+.table{
+    overflow:auto;
+}
+
+.alert{
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.factureContent {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.tableFacture{
+    margin-top: 50px;
+    max-width: min-content;
+    margin-left: 100px;
+    display: block;
+    width: 500px;
+}
+
+.title {
+    margin-left: 100px;
+    padding-top: 70px;
+}
+
+.footerFacture {
+    display: flexbox;
+    margin-top: 500px;
+    left: 0;
+    margin-left: 100px;
+    text-align: center;
+    max-width: 600px;
+}
